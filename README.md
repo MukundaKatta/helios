@@ -1,6 +1,6 @@
 # helios — Edge AI Deployment. Edge AI deployment framework
 
-Edge AI Deployment. Edge AI deployment framework. helios gives you a focused, inspectable implementation of that idea.
+Edge AI Deployment. Edge AI deployment framework.
 
 ## Why helios
 
